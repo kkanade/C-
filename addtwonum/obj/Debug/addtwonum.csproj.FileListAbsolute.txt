@@ -1,0 +1,7 @@
+C:\Users\ketan_kanade\source\repos\addtwonum\addtwonum\bin\Debug\addtwonum.exe.config
+C:\Users\ketan_kanade\source\repos\addtwonum\addtwonum\bin\Debug\addtwonum.exe
+C:\Users\ketan_kanade\source\repos\addtwonum\addtwonum\bin\Debug\addtwonum.pdb
+C:\Users\ketan_kanade\source\repos\addtwonum\addtwonum\obj\Debug\addtwonum.csprojAssemblyReference.cache
+C:\Users\ketan_kanade\source\repos\addtwonum\addtwonum\obj\Debug\addtwonum.csproj.CoreCompileInputs.cache
+C:\Users\ketan_kanade\source\repos\addtwonum\addtwonum\obj\Debug\addtwonum.exe
+C:\Users\ketan_kanade\source\repos\addtwonum\addtwonum\obj\Debug\addtwonum.pdb
